@@ -28,10 +28,39 @@
 ---
 
 ## 🛠️ **Tech Stack & Tools**
+
+<!-- Core Skillicons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,git,github,githubactions,nginx,ansible,prometheus,grafana,py,js,nodejs,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,nginx,ansible,prometheus,grafana,py,java,js,nodejs,jenkins,json" />
 </p>
 
+<!-- Additional Tools Not in Skillicons -->
+<p align="center">
+
+  <!-- Helm -->
+  <img src="https://helm.sh/img/helm.svg" height="55" title="Helm" />
+
+  <!-- Argo CD -->
+  <img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" height="55" title="Argo CD" />
+
+  <!-- OpenTelemetry -->
+  <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" height="55" title="OpenTelemetry" />
+
+  <!-- HashiCorp Vault -->
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/vault/icon/color/vault-icon-color.png" height="55" title="HashiCorp Vault" />
+
+  <!-- Trivy -->
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/logo.png" height="55" title="Trivy" />
+
+  <!-- SonarQube -->
+  <img src="https://raw.githubusercontent.com/sonarsource/sonarqube-static-assets/master/brand/logo.svg" height="55" title="SonarQube" />
+
+  <!-- ServiceNow -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/ServiceNow_logo.svg" height="55" title="ServiceNow" />
+
+  <!-- Azure DevOps Pipelines -->
+  <img src="https://learn.microsoft.com/en-us/media/logos/azure-devops-logo.svg" height="55" title="Azure Pipelines" />
+</p>
 ---
 
 ## 🎓 **Certifications**

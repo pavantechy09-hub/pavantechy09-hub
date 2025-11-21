@@ -49,17 +49,6 @@
   <!-- HashiCorp Vault -->
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/vault/icon/color/vault-icon-color.png" height="55" title="HashiCorp Vault" />
 
-  <!-- Trivy -->
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/logo.png" height="55" title="Trivy" />
-
-  <!-- SonarQube -->
-  <img src="https://raw.githubusercontent.com/sonarsource/sonarqube-static-assets/master/brand/logo.svg" height="55" title="SonarQube" />
-
-  <!-- ServiceNow -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/ServiceNow_logo.svg" height="55" title="ServiceNow" />
-
-  <!-- Azure DevOps Pipelines -->
-  <img src="https://learn.microsoft.com/en-us/media/logos/azure-devops-logo.svg" height="55" title="Azure Pipelines" />
 </p>
 ---
 

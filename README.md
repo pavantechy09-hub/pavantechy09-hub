@@ -3,10 +3,17 @@
 <h1 align="center">Hi 👋, I'm Pavan Goli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 <h3 align="center">DevOps | Cloud | SRE Engineer</h3>
 
+<div align="center">
+  <!-- Scrolling/animated GIF banner -->
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="DevOps Banner" width="600"/>
+  </marquee>
+</div>
+
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/Pavan-Goli" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
@@ -18,9 +25,12 @@
 </a>
 </p>
 
+<!-- Floating GIF on the right -->
+<img align="right" alt="DevOps Animation" width="400" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
+
 ---
 
-## 👨‍💻 **About Me** <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="35"/>
+## 👨‍💻 About Me
 - 🔹 Senior DevOps & Cloud Engineer with expertise in AWS, Kubernetes, and CI/CD  
 - 🔹 Passionate about automation, platform engineering, and building scalable infra  
 - 🔹 Hands-on with Terraform, GitHub Actions, Docker, Helm & Observability  
@@ -29,46 +39,40 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,nginx,ansible,prometheus,grafana,py,java,js,nodejs,jenkins,json" />
 </p>
 
-<p align="center">
-  <img src="https://helm.sh/img/helm.svg" height="55" title="Helm"/>
-  <img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" height="55" title="Argo CD"/>
-  <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" height="55" title="OpenTelemetry"/>
-</p>
-
 ---
 
-## 🎓 **Certifications** <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="30"/>
+## 🎓 Certifications
 <p align="left">
-🟦 **AWS Certifications**  
+🟦 **AWS**  
 <img src="https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&animation=glow"/>
 
-🟦 **Microsoft Azure Certifications**  
+🟦 **Azure**  
 <img src="https://img.shields.io/badge/Azure-Administrator_Associate-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&animation=glow"/>
 
-🔵 **Salesforce Certifications**  
+🔵 **Salesforce**  
 <img src="https://img.shields.io/badge/Salesforce-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&animation=glow"/>
 </p>
 
 ---
 
-## ❤️ **Interests**
-- ☁️ Cloud Architecture & Infra Automation  
-- 🐳 Kubernetes Platform Engineering  
-- 📊 Observability (Prometheus, Grafana, Loki)  
-- ⚙️ CI/CD Pipelines & GitOps  
-- 🤖 SRE Practices & Automation  
-- 🌐 Open-Source Projects  
-- 💡 Learning new DevOps tools  
-- 🚀 Building Cloud Portfolio projects  
+## ❤️ Interests
+- Cloud Architecture & Infra Automation  
+- Kubernetes Platform Engineering  
+- Observability (Prometheus, Grafana, Loki)  
+- CI/CD Pipelines & GitOps  
+- SRE Practices & Automation  
+- Open-Source Projects  
+- Learning new DevOps tools  
+- Building Cloud Portfolio projects  
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavantechy09-hub&show_icons=true&theme=radical&hide_border=true" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavantechy09-hub&layout=compact&theme=radical&hide_border=true" height="170">
@@ -76,25 +80,25 @@
 
 ---
 
-## 🔥 **GitHub Streak**
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pavantechy09-hub&theme=dark&hide_border=true&animation=glow" height="180"/>
 </p>
 
 ---
 
-## 💬 **Quote**
+## 💬 Quote
 > _“Automating everything that slows down innovation.”_ <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="25"/>
 
 ---
 
 ## 📌 Featured Projects
-- 🔥 **Three-Tier AWS EKS DevOps Project**  
-- 🛠 **Terraform AWS Infrastructure**  
-- 🚀 **GitHub Actions CI/CD Pipeline**  
-- 🐳 **Docker + Kubernetes Microservices Project**  
-- 📊 **Monitoring Stack (Prometheus, Grafana, Loki)**  
+- 🔥 Three-Tier AWS EKS DevOps Project  
+- 🛠 Terraform AWS Infrastructure  
+- 🚀 GitHub Actions CI/CD Pipeline  
+- 🐳 Docker + Kubernetes Microservices Project  
+- 📊 Monitoring Stack (Prometheus, Grafana, Loki)  
 
 ---
 
-⭐ **Thanks for visiting!**
+⭐ Thanks for visiting!

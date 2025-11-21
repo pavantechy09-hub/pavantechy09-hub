@@ -1,10 +1,3 @@
-<!-- Banner with animated scrolling GIF -->
-<div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" alt="DevOps Banner"/>
-  </marquee>
-</div>
-
 ![banner](https://img.shields.io/badge/🚀_PAVAN_GOLI_-_DevOps_Engineer-blue?style=for-the-badge&animation=glow)
 
 <h1 align="center">Hi 👋, I'm Pavan Goli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>

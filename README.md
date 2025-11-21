@@ -23,10 +23,6 @@
 </a>
 </p>
 
-<!-- Floating GIF on the right -->
-<img align="right" alt="DevOps Animation" width="400" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
-
----
 
 ## 👨‍💻 About Me
 - 🔹 Senior DevOps & Cloud Engineer with expertise in AWS, Kubernetes, and CI/CD  

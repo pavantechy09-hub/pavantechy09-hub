@@ -1,13 +1,22 @@
+<!-- Banner with animated scrolling GIF -->
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" alt="DevOps Banner"/>
+  </marquee>
+</div>
+
 ![banner](https://img.shields.io/badge/🚀_PAVAN_GOLI_-_DevOps_Engineer-blue?style=for-the-badge&animation=glow)
 
 <h1 align="center">Hi 👋, I'm Pavan Goli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 <h3 align="center">DevOps | Cloud | SRE Engineer</h3>
 
+<!-- Floating GIF on the right -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pavantechy09-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -21,8 +30,12 @@
 <a href="https://twitter.com/pavantechy09" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
+<a href="https://github.com/pavantechy09-hub" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 </p>
 
+---
 
 ## 👨‍💻 About Me
 - 🔹 Senior DevOps & Cloud Engineer with expertise in AWS, Kubernetes, and CI/CD  
@@ -36,6 +49,12 @@
 ## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,nginx,ansible,prometheus,grafana,py,java,js,nodejs,jenkins,json" />
+</p>
+
+<p align="center">
+  <img src="https://helm.sh/img/helm.svg" height="55" title="Helm"/>
+  <img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" height="55" title="Argo CD"/>
+  <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" height="55" title="OpenTelemetry"/>
 </p>
 
 ---

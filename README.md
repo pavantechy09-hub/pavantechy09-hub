@@ -46,9 +46,6 @@
 🔵 **Salesforce Certifications**  
 <img src="https://img.shields.io/badge/Salesforce-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-🟧 **DevOps & Cloud**  
-<img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-
 </p>
 
 ---

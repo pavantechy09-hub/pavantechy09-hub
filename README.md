@@ -46,9 +46,6 @@
   <!-- OpenTelemetry -->
   <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" height="55" title="OpenTelemetry" />
 
-  <!-- HashiCorp Vault -->
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/vault/icon/color/vault-icon-color.png" height="55" title="HashiCorp Vault" />
-
 </p>
 ---
 

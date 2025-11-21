@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Pavan Goli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 <h3 align="center">DevOps | Cloud | SRE Engineer</h3>
 
-<div align="center">
-  <!-- Scrolling/animated GIF banner -->
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="DevOps Banner" width="600"/>
-  </marquee>
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ## 🌐 Connect With Me

@@ -31,7 +31,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔹 Senior DevOps & Cloud Engineer with expertise in AWS, Kubernetes, and CI/CD  
+- 🔹 Senior DevOps & Cloud Engineer with expertise in AWS,Azure,Gcp, Kubernetes, and CI/CD  
 - 🔹 Passionate about automation, platform engineering, and building scalable infra  
 - 🔹 Hands-on with Terraform, GitHub Actions, Docker, Helm & Observability  
 - 🔹 Strong focus on reliability, security, performance & cost optimization  
@@ -103,7 +103,7 @@
 - 🛠 Terraform AWS Infrastructure  
 - 🚀 GitHub Actions CI/CD Pipeline  
 - 🐳 Docker + Kubernetes Microservices Project  
-- 📊 Monitoring Stack (Prometheus, Grafana, Loki)  
+- 📊 Monitoring Stack (Prometheus, Grafana, Loki, OTEL)  
 
 ---
 
